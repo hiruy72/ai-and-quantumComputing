@@ -26,3 +26,8 @@ pip install -r requirements.txt
 -Add scripts, notebooks, datasets, or documentation
 
 -Maintain the general structure to keep the repository organized
+
+## License
+
+This repository is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
